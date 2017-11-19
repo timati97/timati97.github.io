@@ -1,0 +1,22 @@
+body{
+	background-image: url("Timur.jpg");
+}
+h1{
+	color:DodgerBlue;
+	text-align: center;
+	font-size: 80px;
+	font-family: Britannic Bold;
+}
+h2{
+	color:red;
+	text-align: left;
+	font-size: 40px;
+	font-family: Britannic Bold;
+}
+ul{
+	color:white;
+	text-align: left;
+	font-size: 20px;
+	font-family: Britannic Bold;
+}
+
